@@ -10,11 +10,11 @@ and minimum 6 with no maximum limit if personalized.
 # Using password generator
 Write or copy, paste to your console:
 
-```
+```git
 git clone github.com/Nowikens/Password-generator
 ```
 
-```
+```python
 python passwordGenerator.py
 ```
 
